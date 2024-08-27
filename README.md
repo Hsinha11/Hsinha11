@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 My name is Harianant Sinha<br>👯 I’m am a Student of 3rd year<br>🤝 I’m looking forward to making various projects in various domains<br>🌱 I’m currently learning Web development<br>
+🔭 My name is Harianant Sinha<br>👯 I’m am a Student of 4th year<br>🤝 I’m looking forward to making various projects in various domains<br>🌱 I’m currently learning Web development<br>
 
 ---
 ## 🌐 Socials:
