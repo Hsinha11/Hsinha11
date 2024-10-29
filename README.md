@@ -1,10 +1,15 @@
 [![An image of @hsinha11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hsinha11)](https://holopin.io/@hsinha11)
-# 💫 About Me:
-🔭 My name is Harianant Sinha<br>👯 I’m am a Student of 4th year<br>🤝 I’m looking forward to making various projects in various domains<br>🌱 I’m currently learning Web development<br>
+# 👋 Hello, I'm Harianant Sinha!
+
+## 🌐 Socials:
+[![GitHub followers](https://img.shields.io/github/followers/HSinha11?style=social)](https://github.com/HSinha11)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harianant-sinha/)](https://www.linkedin.com/in/harianantsinha/)
+[![Twitter](https://img.shields.io/twitter/follow/HarianantSinha?style=social)]([https://twitter.com/HarianantS](https://x.com/HarianantS))
 
 ---
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harianantsinha) 
+
+🎓 **About Me:**  
+I’m Harianant Sinha from Kanpur, India, pursuing a Bachelor of Technology in **Computer Science**. With a passion for tech innovation, I specialize in software development, particularly in the areas of backend development and deepfake detection. I am currently exploring **competitive programming** to hone my problem-solving skills and strengthen my grasp of complex algorithms.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hsinha11&icon=7&color=9)](https://visitcount.itsvg.in)
@@ -24,6 +29,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hsinha11&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+---
+> _"Exploring the world of technology with passion and curiosity!"_
+
+---
 
 
 
