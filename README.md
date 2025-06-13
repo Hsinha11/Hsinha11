@@ -25,7 +25,7 @@ I’m Harianant Sinha from Kanpur, India, pursuing a Bachelor of Technology in *
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hsinha11&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinha11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/user/05bebc06-1606-4c63-837a-90cc701eec10/project/85a1387e-2106-4f4f-8d59-4447e8cb3ec0.svg)](https://wakatime.com/badge/user/05bebc06-1606-4c63-837a-90cc701eec10/project/85a1387e-2106-4f4f-8d59-4447e8cb3ec0)
+[![wakatime](https://wakatime.com/badge/github/Hsinha11/HireForge.svg)](https://wakatime.com/badge/github/Hsinha11/HireForge)
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hsinha11&theme=discord&no-frame=false&no-bg=true&margin-w=4)
