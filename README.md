@@ -70,7 +70,9 @@
 ---
 
 ### 🕒 Wakatime Stats
-[![wakatime](https://wakatime.com/badge/user/05bebc06-1606-4c63-837a-90cc701eec10/project/460d2be1-fdfb-4d0a-8ee6-6b0868895ded.svg)](https://wakatime.com/@HarianantSinha)
+
+
+[![wakatime](https://wakatime.com/badge/user/05bebc06-1606-4c63-837a-90cc701eec10.svg)](https://wakatime.com/@05bebc06-1606-4c63-837a-90cc701eec10)
 
 ---
 
