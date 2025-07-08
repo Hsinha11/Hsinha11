@@ -64,7 +64,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hsinha11&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hsinha11&theme=discord&no-frame=false&no-bg=true&margin-w=5&column=-1"/>
 </p>
 
 ---
