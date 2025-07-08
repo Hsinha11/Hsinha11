@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harianantsinha/)
 [![GitHub](https://img.shields.io/github/followers/HSinha11?style=social)](https://github.com/HSinha11)
-[![Twitter](https://img.shields.io/twitter/follow/HarianantSinha?style=social)](https://x.com/HarianantS)
+[![Twitter](https://img.shields.io/twitter/follow/HarianantS?style=social)](https://x.com/HarianantS)
 [![](https://visitcount.itsvg.in/api?id=Hsinha11&icon=7&color=9)](https://visitcount.itsvg.in)
 
 ---
