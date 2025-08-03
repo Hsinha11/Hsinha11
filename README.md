@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there, I'm Harianant Sinha 👋</h1>
 <p align="center">
-  🚀 Full-Stack Developer | 🎓 B.Tech CSE | 💡 Building AI-Integrated Platforms | 📍 Kanpur, India
+  🚀 Full-Stack Engineer & Applied AI Researcher | Building Scalable Software in Public
 </p>
 
 ---
@@ -16,13 +16,10 @@
 
 ---
 
+
 ### 🧠 About Me
 
-- 🎓 Bachelor of Technology - Computer Science and Engineering  
-- 💼 Focused on building scalable **full-stack applications** & intelligent **ML systems**
-- 🧠 Currently diving into **competitive programming** and system design  
-- 🛠️ Love working with **Next.js**, **React**, **Prisma**, and **Supabase**
-- 📘 Passionate about clean code, performance, and solving real-world problems
+I'm a recent Computer Science graduate specializing in full-stack development and applied AI/ML. I'm passionate about building clean, scalable, and reusable code to solve real-world problems. My experience ranges from architecting production-ready web applications like **HireForge** to conducting in-depth AI research on complex challenges like deepfake detection.
 
 ---
 ## 🚀 Featured Projects
