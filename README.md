@@ -28,7 +28,7 @@ Here are a few of the key projects I've worked on.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>HireForge – A NextGen Job Board Platform</h3>
       <p>A full-stack, microservice-ready job board platform architected to serve over <strong>10,000 users</strong> with secure authentication, real-time updates, and role-based access control.</p>
       <p>Achieved a <strong>98/100 Lighthouse Performance Score</strong> through strategic code optimization and a refactored image pipeline.</p>
@@ -39,7 +39,7 @@ Here are a few of the key projects I've worked on.
       </p>
       <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, PostgreSQL, Prisma, Supabase, Vercel CI/CD</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Deepfake Detection using Deep Learning</h3>
       <p>Developed and trained a novel CNN-LSTM pipeline to analyze video data and classify deepfakes with <strong>97.5% accuracy</strong> on multiple benchmark datasets.</p>
       <p>Authored a comprehensive research paper on the model's architecture and findings, which was submitted for journal publication.</p>
@@ -47,6 +47,17 @@ Here are a few of the key projects I've worked on.
         <a href="https://github.com/Hsinha11/Deepfake_detection_using_deep_learning"><strong>GitHub Repo &rarr;</strong></a>
       </p>
       <p><strong>Tech Stack:</strong> Python, PyTorch, TensorFlow, Django, Scikit-learn</p>
+    </td>
+    <td width="33%" valign ="top">
+      <h3> DocuSage: AI Document Assistant</h3>
+      <p>An intelligent document assistant that leverages Google's Gemini API to allow users to have a natural conversation with their documents. DocuSage extracts and translates text from PDFs and images, enabling users to find information and get summaries instantly through an interactive chat interface.
+      </p>
+      <p>
+        <a href="https://github.com/Hsinha11/DocuSage-AI-Document-Assistant"><strong>GitHub Repo &rarr;</strong></a>
+        <br>
+        <a href="https://docusage.streamlit.app/"><strong>Live Demo &rarr;</strong></a>
+      </p>
+      <p><strong>Tech Stack:</strong> Python,Streamlit</p>
     </td>
   </tr>
 </table>
