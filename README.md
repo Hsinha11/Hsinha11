@@ -44,7 +44,7 @@ Here are a few of the key projects I've worked on.
       <p>Developed and trained a novel CNN-LSTM pipeline to analyze video data and classify deepfakes with <strong>97.5% accuracy</strong> on multiple benchmark datasets.</p>
       <p>Authored a comprehensive research paper on the model's architecture and findings, which was submitted for journal publication.</p>
       <p>
-        <a href="https://github.com/Hsinha11/Deepfake-detection-using-Deep-Learning"><strong>GitHub Repo &rarr;</strong></a>
+        <a href="https://github.com/Hsinha11/Deepfake_detection_using_deep_learning"><strong>GitHub Repo &rarr;</strong></a>
       </p>
       <p><strong>Tech Stack:</strong> Python, PyTorch, TensorFlow, Django, Scikit-learn</p>
     </td>
