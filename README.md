@@ -1,124 +1,274 @@
 [![Holopin Badges](https://holopin.me/hsinha11)](https://holopin.io/@hsinha11)
 
-<h1 align="center">Hey there, I'm Harianant Sinha 👋</h1>
-<p align="center">
-  🚀 Full-Stack Engineer & Applied AI Researcher | Building Scalable Software in Public
-</p>
+<div align="center">
+  
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=400&color=0:667eea,50:764ba2,100:f093fb&text=Harianant%20Sinha&reversal=false&textBg=false&fontAlignY=40&animation=fadeIn&strokeWidth=2&fontSize=60&fontColor=ffffff&stroke=ffffff)
+
+</div>
+
+<div align="center">
+  
+# 🚀 Full-Stack Engineer & Applied AI Researcher
+### *Building the Future, One Line of Code at a Time*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+digital+universe!;Crafting+scalable+solutions;Exploring+AI+frontiers;Always+learning%2C+always+building)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🌐 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harianantsinha/)
-[![GitHub](https://img.shields.io/github/followers/HSinha11?style=social)](https://github.com/HSinha11)
-[![Twitter](https://img.shields.io/twitter/follow/HarianantS?style=social)](https://x.com/HarianantS)
-[![](https://visitcount.itsvg.in/api?id=Hsinha11&icon=7&color=9)](https://visitcount.itsvg.in)
+## 🌌 **Connect & Collaborate**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/harianantsinha/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/HSinha11)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/HarianantS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hsinha11&color=667eea&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/HSinha11?style=for-the-badge&color=764ba2&labelColor=667eea)
+
+</div>
 
 ---
 
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🧠 About Me
+## 🧠 **About Me**
 
-I'm a recent Computer Science graduate specializing in full-stack development and applied AI/ML. I'm passionate about building clean, scalable, and reusable code to solve real-world problems. My experience ranges from architecting production-ready web applications like **HireForge** to conducting in-depth AI research on complex challenges like deepfake detection.
+```typescript
+const harianant = {
+    role: "Full-Stack Engineer & AI Researcher",
+    education: "Computer Science Graduate",
+    passion: ["Clean Architecture", "Scalable Solutions", "AI Innovation"],
+    currentFocus: "Building production-ready applications",
+    philosophy: "Code is poetry, and every bug is a haiku waiting to be fixed",
+    
+    dailyRoutine: {
+        morning: "☕ Coffee + Code Review",
+        afternoon: "🔨 Building & Debugging", 
+        evening: "📚 Learning New Tech",
+        night: "🌙 Open Source Contributions"
+    }
+};
+```
+
+### 🎯 **What Drives Me**
+- 🔮 Transforming ideas into elegant, scalable solutions
+- 🧪 Experimenting with cutting-edge AI/ML technologies  
+- 🌱 Contributing to open-source communities
+- 🚀 Optimizing for performance and user experience
 
 ---
-## 🚀 Featured Projects
 
-Here are a few of the key projects I've worked on.
+<div align="center">
+
+## 🏗️ **Featured Projects Portfolio**
+
+</div>
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>HireForge – A NextGen Job Board Platform</h3>
-      <p>A full-stack, microservice-ready job board platform architected to serve over <strong>10,000 users</strong> with secure authentication, real-time updates, and role-based access control.</p>
-      <p>Achieved a <strong>98/100 Lighthouse Performance Score</strong> through strategic code optimization and a refactored image pipeline.</p>
-      <p>
-        <a href="https://github.com/Hsinha11/HireForge"><strong>GitHub Repo &rarr;</strong></a>
-        <br>
-        <a href="https://hireforge-new.vercel.app/"><strong>Live Demo &rarr;</strong></a>
-      </p>
-      <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, PostgreSQL, Prisma, Supabase, Vercel CI/CD</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Deepfake Detection using Deep Learning</h3>
-      <p>Developed and trained a novel CNN-LSTM pipeline to analyze video data and classify deepfakes with <strong>97.5% accuracy</strong> on multiple benchmark datasets.</p>
-      <p>Authored a comprehensive research paper on the model's architecture and findings, which was submitted for journal publication.</p>
-      <p>
-        <a href="https://github.com/Hsinha11/Deepfake_detection_using_deep_learning"><strong>GitHub Repo &rarr;</strong></a>
-      </p>
-      <p><strong>Tech Stack:</strong> Python, PyTorch, TensorFlow, Django, Scikit-learn</p>
-    </td>
-    <td width="33%" valign ="top">
-      <h3> DocuSage: AI Document Assistant</h3>
-      <p>An intelligent document assistant that leverages Google's Gemini API to allow users to have a natural conversation with their documents. DocuSage extracts and translates text from PDFs and images, enabling users to find information and get summaries instantly through an interactive chat interface.
-      </p>
-      <p>
-        <a href="https://github.com/Hsinha11/DocuSage-AI-Document-Assistant"><strong>GitHub Repo &rarr;</strong></a>
-        <br>
-        <a href="https://docusage.streamlit.app/"><strong>Live Demo &rarr;</strong></a>
-      </p>
-      <p><strong>Tech Stack:</strong> Python,Streamlit</p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 **HireForge**
+*NextGen Job Board Platform*
+
+![HireForge](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)
+
+🔥 **Impact:**
+- Architected for **10,000+ users**
+- **98/100** Lighthouse Performance
+- Microservice-ready architecture
+
+✨ **Features:**
+- Real-time job updates
+- Secure JWT authentication  
+- Advanced search & filtering
+- Role-based access control
+
+**🛠️ Stack:** Next.js • TypeScript • PostgreSQL • Prisma • Supabase
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hsinha11/HireForge)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://hireforge-new.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 **Deepfake Detection AI**
+*Advanced Video Analysis System*
+
+![Research](https://img.shields.io/badge/Status-Research%20Complete-blue?style=flat-square)
+
+🎯 **Achievement:**
+- **97.5% accuracy** on benchmarks
+- Novel CNN-LSTM architecture
+- Research paper submitted
+
+🔬 **Innovation:**
+- Multi-dataset validation
+- Real-time processing pipeline
+- Comprehensive evaluation metrics
+
+**🛠️ Stack:** Python • PyTorch • TensorFlow • Django • OpenCV
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hsinha11/Deepfake_detection_using_deep_learning)
+[![Paper](https://img.shields.io/badge/Research-Paper-FF6B6B?style=flat-square&logo=adobeacrobatreader)](#)
+
+</td>
+<td width="33%" valign="top">
+
+### 📄 **DocuSage**
+*AI Document Assistant*
+
+![DocuSage](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+💡 **Innovation:**
+- Natural language document queries
+- Multi-format text extraction
+- Intelligent summarization
+- Real-time chat interface
+
+🌟 **Capabilities:**
+- PDF & image text extraction
+- Google Gemini API integration
+- Instant document insights
+
+**🛠️ Stack:** Python • Streamlit • Google Gemini • OCR
+
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hsinha11/DocuSage-AI-Document-Assistant)
+[![Demo](https://img.shields.io/badge/Try-Live-4285F4?style=flat-square&logo=streamlit)](https://docusage.streamlit.app/)
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 💻 Tech Stack
+<div align="center">
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+## 🛠️ **Technology Arsenal**
 
-**Frontend & UI:**  
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
+
+<div align="center">
+
+### **Languages & Core**
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Frontend Mastery**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Infra:**  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
----
+### **Backend & Infrastructure**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 📈 GitHub Stats
+### **AI/ML & Tools**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hsinha11&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsinha11&theme=tokyonight&hide_border=false" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinha11&theme=tokyonight&layout=compact&hide_border=false" alt="Top Langs"/>
-</p>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hsinha11&theme=discord&no-frame=false&no-bg=true&margin-w=5&column=-1"/>
-</p>
+## 📊 **GitHub Analytics**
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hsinha11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hsinha11&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=667eea&currStreakLabel=f093fb" alt="Streak Stats"/>
 
-### 🕒 Wakatime Stats
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinha11&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages"/>
 
-
-[![wakatime](https://wakatime.com/badge/user/05bebc06-1606-4c63-837a-90cc701eec10.svg)](https://wakatime.com/@05bebc06-1606-4c63-837a-90cc701eec10)
+</div>
 
 ---
 
-### ✍️ Quote to Live By
-> _"Exploring the world of technology with passion and curiosity."_  
-> — Harianant Sinha
+<div align="center">
+
+## 🏆 **Achievement Gallery**
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hsinha11&theme=discord&no-frame=true&no-bg=true&margin-w=5&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
+
+</div>
 
 ---
 
+<div align="center">
+
+## ⚡ **Coding Activity**
+
+[![Wakatime](https://wakatime.com/badge/user/05bebc06-1606-4c63-837a-90cc701eec10.svg?style=for-the-badge)](https://wakatime.com/@05bebc06-1606-4c63-837a-90cc701eec10)
+
+[![Harianant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hsinha11&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 **Current Focus**
+
+```mermaid
+graph TD
+    A[🎯 Current Goals] --> B[Building Scalable Apps]
+    A --> C[AI/ML Research]
+    A --> D[Open Source Contributions]
+    
+    B --> E[HireForge Enhancement]
+    B --> F[Performance Optimization]
+    
+    C --> G[Computer Vision]
+    C --> H[NLP Applications]
+    
+    D --> I[Community Projects]
+    D --> J[Documentation]
+    
+    style A fill:#667eea,stroke:#333,stroke-width:3px,color:#fff
+    style B fill:#f093fb,stroke:#333,stroke-width:2px
+    style C fill:#4ecdc4,stroke:#333,stroke-width:2px
+    style D fill:#45b7d1,stroke:#333,stroke-width:2px
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 **Philosophy**
+
+
+
+*"Exploring the world of technology with passion and curiosity, one commit at a time."*  
+— **Harianant Sinha**
+
+---
+
+### 🤝 **Let's Build Something Amazing Together!**
+
+*Open to collaborations, innovative projects, and meaningful conversations about technology.*
+
+[![Email](https://img.shields.io/badge/Let's_Talk-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harianantsinha2003@gmail.com)
+
+---
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+
+</div>
