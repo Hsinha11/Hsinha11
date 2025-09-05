@@ -215,7 +215,7 @@ const harianant = {
 
 [![Wakatime](https://wakatime.com/badge/user/05bebc06-1606-4c63-837a-90cc701eec10.svg?style=for-the-badge)](https://wakatime.com/@05bebc06-1606-4c63-837a-90cc701eec10)
 
-[![Harianant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hsinha11&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+[![Harianant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HarianantSinha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
