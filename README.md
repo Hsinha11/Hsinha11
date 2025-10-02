@@ -33,7 +33,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ## 🧠 **About Me**
 
@@ -52,6 +52,7 @@ const harianant = {
         night: "🌙 Open Source Contributions"
     }
 };
+
 ```
 
 ### 🎯 **What Drives Me**
