@@ -12,7 +12,7 @@
 # 🚀 Full-Stack Engineer & Applied AI Researcher
 ### *Building the Future, One Line of Code at a Time*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+digital+universe!;Crafting+scalable+solutions;Exploring+AI+frontiers;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Welcome+to+my+digital+universe!;Crafting+scalable+solutions;Exploring+AI+frontiers;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
