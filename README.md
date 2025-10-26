@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=400&color=0:667eea,50:764ba2,100:f093fb&text=Harianant%20Sinha&reversal=false&textBg=false&fontAlignY=40&animation=fadeIn&strokeWidth=2&fontSize=60&fontColor=ffffff&stroke=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=400&text=Harianant%20Sinha&reversal=false&textBg=false&fontAlignY=40&animation=fadeIn&strokeWidth=2&fontSize=60&fontColor=ffffff&stroke=ffffff)
 
 </div>
 
